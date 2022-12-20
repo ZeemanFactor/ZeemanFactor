@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZeemanFactor
-- 👀 I’m interested in UI/UX Designing and Rapping
+- 👀 I’m interested in UI/UX Designing and Developing
 - 🌱 I’m currently persuing B.Tec from KIIT
 
 <!---
